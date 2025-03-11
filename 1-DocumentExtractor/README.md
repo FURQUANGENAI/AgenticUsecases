@@ -1,6 +1,6 @@
 # Document Extractor Chat Agent
 
-A simple Streamlit app to process medical report PDFs and chat with their content using AI.
+A  Streamlit app to process medical report PDFs and chat with their content using AI.Inspired by Andrew NG
 
 ## Features
 - Upload a PDF (e.g., medical report).
